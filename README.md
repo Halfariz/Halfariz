@@ -1,13 +1,13 @@
 # 👨‍💻 Welcome to My GitHub!
 
-Hello, I'm **[Your Name]**, a passionate **[Your Role, e.g., Developer, Designer]** from **[Your Country]**. 🚀
+Hello, I'm **Muhammad Alfariz**, a passionate **Newbie** from **Indonesia**. 🚀
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Python, JavaScript, TypeScript  
-- **Frameworks:** React, Node.js, Django  
-- **Tools:** Git, VS Code, Docker  
+- **Languages:** Java 
+- **Frameworks:** - 
+- **Tools:** Git, VS Code
 
 ---
 
